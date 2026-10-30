@@ -2,7 +2,7 @@
 # mon journal de veille
 
 ## 6/11/2026 — GitHub et journal de veille
-
+https://www.google.com
 - **Source** : [Mots de passe : recommandations pour maîtriser sa sécurité](https://www.cnil.fr/fr/mots-de-passe-recommandations-pour-maitriser-sa-securite) — site ou auteur (Cnil)
 
 - **Ce que j'ai appris** :les mots de passe doivent être composés d'au minimum 12 caractères comprenant des majuscules, des minuscules, des chiffres et des caractères spéciaux à choisir dans une liste d'au moins 37 caractères spéciaux possibles.
