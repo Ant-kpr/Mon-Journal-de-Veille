@@ -1,7 +1,7 @@
 <!-- Modèle d'une entrée du journal de veille : copiez ce bloc en haut de README.md à chaque veille. -->
 # mon journal de veille
 
-## JJ/MM/AAAA — Titre court du sujet
+## 30/10/2026 — GitHub et journal de veille
 
 - **Source** : [Mots de passe : recommandations pour maîtriser sa sécurité](https://www.cnil.fr/fr/mots-de-passe-recommandations-pour-maitriser-sa-securite) — site ou auteur (Cnil)
 
