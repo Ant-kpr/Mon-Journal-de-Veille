@@ -12,7 +12,8 @@ une phrase de passe doit être utilisée et elle doit être composée d’au min
 
 
 ## 13/11/2026 - C3 - Réaliser des interfaces utilisateur statiques
-- **Source** : [Mots de passe : recommandations pour maîtriser sa sécurité](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility) — site ou auteur MdN
+- **Source** : [Baseline (compatibilité)](https://developer.mozilla.org/en-US/docs/Glossary/Baseline/Compatibility)
+- site ou auteur MdN
 - **Ce que j'ai appris** :Baseline identifie la disponibilité des fonctionnalités de la plateforme web dans les principaux navigateurs, y compris les API, les propriétés CSS et la syntaxe JavaScript. Baseline décrit les fonctionnalités web comme étant soit largement disponibles, soit nouvellement disponibles. Les fonctionnalités qui ne répondent pas aux critères Baseline sont considérées comme ayant une disponibilité limitée.
 - **Pourquoi c'est utile pour un développeur web** : une phrase.
 - **Ce que je vais faire ou vérifier** : Baseline est un résumé de la compatibilité des navigateurs. Ce n'est pas un substitut à l'accessibilité, à l'utilisabilité, à la performance, à la sécurité ou à d'autres tests.
