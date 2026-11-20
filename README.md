@@ -9,3 +9,18 @@ https://www.google.com
 une phrase de passe doit être utilisée et elle doit être composée d’au minimum 7 mots.
 - **Pourquoi c'est utile pour un développeur web** : une phrase.
 - **Ce que je vais faire ou vérifier** : verifier mon empreinte numerique en ligne et mettre a jours mes mots de passe
+
+
+## 13/11/2026 - C3 - Réaliser des interfaces utilisateur statiques
+**Source** : Baseline (compatibilité)
+site ou auteur MdN
+**Ce que j'ai appris** :Baseline identifie la disponibilité des fonctionnalités de la plateforme web dans les principaux navigateurs, y compris les API, les propriétés CSS et la syntaxe JavaScript. Baseline décrit les fonctionnalités web comme étant soit largement disponibles, soit nouvellement disponibles. Les fonctionnalités qui ne répondent pas aux critères Baseline sont considérées comme ayant une disponibilité limitée.
+**Pourquoi c'est utile pour un développeur web** : u verifier la compatibilité avec les navigateurs
+**Ce que je vais faire ou vérifier** : l'accessibilité, l'utilisabilité, la performance, la sécurité
+
+
+## 20/11/2026 - Les nouveautés de JavaScript
+**Source** : Specifying JavaScript. site ou auteur TC39
+**Ce que j'ai appris** : Le TC39 d'Ecma International est un groupe de développeurs JavaScript, d'implémenteurs, d'universitaires et d'autres, qui collaborent avec la communauté pour maintenir et faire évoluer la définition de JavaScript.
+**Pourquoi c'est utile pour un développeur web** : savoir qui collaborent avec la communauté pour maintenir et faire évoluer la définition de JavaScript.
+**Ce que je vais faire ou vérifier** :
